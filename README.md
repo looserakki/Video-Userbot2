@@ -11,10 +11,10 @@ an another telegram userbot for streaming video trought the telegram video chat.
 - `BOT_TOKEN` : (Optional) Get this value from [BotFather](https://telegram.dog/BotFather).
 
 ## HOST ON HEROKU 💜
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/levina-lab/video-stream2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itsunknown-12/Video-Userbot2)
 
 ## HOST ON RAILWAY 🚄
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/levina-lab/video-stream2&envs=API_ID,API_HASH,BOT_TOKEN,SESSION,SUDO)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Itsunknown-12/Video-Userbot2&envs=API_ID,API_HASH,BOT_TOKEN,SESSION,SUDO)
 
 ## Known Issues 🐛
 
